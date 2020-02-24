@@ -1,0 +1,10 @@
+//  BJP4 Exercise 2.2: loopSquares
+// For added challenge, try to modify your code so that 
+// it does not need to use the * multiplication operator. 
+// (It can be done! Hint: Look at the differences between adjacent numbers.)
+
+
+for (int i = 1; i <= 10; i++) {
+    i = i;
+    System.out.print(i * i + " ");
+    }
